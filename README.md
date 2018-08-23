@@ -5,7 +5,7 @@ A curated list of awesome computer vision resources, inspired by [awesome-php](h
 For a list people in computer vision listed with their academic genealogy, please visit [here](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/people.md)
 
 ## Contributing
-Please feel free to send me [pull requests](https://github.com/jbhuang0604/awesome-computer-vision/pulls) or email (jbhuang1@illinois.edu) to add links.
+Please feel free to send me [pull requests](https://github.com/lethalazo/awesome-computer-vision/pulls) or email (me@lethalazo.con) to add links.
 
 ## Table of Contents
 
@@ -732,5 +732,3 @@ Non-uniform Deblurring
 License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Jia-Bin Huang](www.jiabinhuang.com) has waived all copyright and related or neighboring rights to this work.
